@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 40%;
+}
+
+.slider img{
+    width: 100%;
+    height: 400px;
+}
+
+.lift h1{
+    color: blue;
+    text-align: center;
+}
+.lift h4{
+    text-align: justify;
+    font-size: 19px;
+}
+
+.lift img{
+    width: 100%;
+}
+
+.gallery h1{
+    color: blue;
+    text-align: center;
+}
+
+.membership h1{
+    color: blue;
+    text-align: center;
+}
+
+.membership .card{
+    background-color: rgb(76, 86, 103);
+}
+
+.festive h1{
+    color: blue;
+    text-align: center;
+}
+
+.coverage h1{
+    color: blue;
+    text-align: center;
+}
+.contact h2{
+    color: blue;
+    text-align: center;
+}
+.links a{
+    color: black;
+    text-decoration: none;
+}
+
+
